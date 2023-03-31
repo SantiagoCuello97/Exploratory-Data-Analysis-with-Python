@@ -9,9 +9,15 @@ You’ll begin this guided project by importing data from multiple sources using
 
 After completing this project, you’ll be ready to apply your new Python skills for data analysis and prediction modeling.
 
-## A Look at the Project Ahead
-After completing this project, you'll be able to:
-- Import data using Python
-- Analyze data using visualization techniques
-- Perform descriptive statistical analysis
-- Conduct ANOVA tests
+## Table of Contents
+- Import Data from Module
+- Analyzing Individual Feature Patterns using Visualization
+- Descriptive Statistical Analysis
+- Basics of Grouping
+- Correlation and Causation
+- ANOVA
+
+## Requirements
+ For this project, you will need:
+- Familiarity with Python and pandas
+- Familiarity with principles of data science
